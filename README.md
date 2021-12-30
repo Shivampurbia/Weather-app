@@ -7,7 +7,7 @@ This Web App allows users to search the weather conditions of any city in the wo
 
 #
 
-### [Live Site](https://pwa-climate.netlify.app/)
+### [Live Site](https://brave-edison-9885d4.netlify.app)
 <img style="text-align:center" src="https://user-images.githubusercontent.com/81709725/126879879-f7a43894-02f5-47e7-8679-99390533dddd.png" width=500px height=400px/>
 
 #
